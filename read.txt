@@ -1,0 +1,18 @@
+Todo with React and Redux
+
+
+1. User will enter data
+2. Update status 
+3. Delete
+4. List Print
+5. No Result
+
+
+React npm
+react-redux inst
+
+Actions
+Reducers
+Store
+ 
+Container
